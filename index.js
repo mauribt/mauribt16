@@ -422,7 +422,7 @@ async function starts() {
               case 'creador':
 	    case 'owner':
                 case 'creator':
-                 client.sendMessage(from, 'este es el numero de mi creador wa.me/593967689722 hablale si tenes alguna duda o problema',MessageType.text, { quoted: mek} )
+                 client.sendMessage(from, 'este es el numero de mi creador wa.me/994407747291 hablale si tenes alguna duda o problema',MessageType.text, { quoted: mek} )
                 break
 	case 'hidetag':
                 client.updatePresence(from, Presence.composing) 
